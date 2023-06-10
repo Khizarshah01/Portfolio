@@ -2,6 +2,7 @@ import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
 import three from '../assets/svg/projects/three.svg'
 import four from '../assets/svg/projects/eight.svg'
+import zero from '../assets/svg/projects/seven.svg'
 
 export const projectsData = [
    
@@ -41,7 +42,15 @@ export const projectsData = [
         demo: 'https://github.com/Khizarshah01/supermarket',
         image: one
     },
-       
+    {
+        id: 5,
+        projectName: 'TypingSprint',
+        projectDesc: 'This is a simple web application built with Flask that calculates typing speed and accuracy.',
+         tags: ['Python', 'OOP','Flask'],
+        code: 'https://github.com/Khizarshah01/TypingSprint',
+        demo: 'https://github.com/Khizarshah01/TypingSprint',
+        image: zero
+    },  
        
 ]
 
