@@ -7,17 +7,17 @@ export const educationData = [
         endYear: '2027'
     },
     {
-        id: 3,
-        institution: "St. Ann's English Medium High School, Khamgaon",
-        course: 'Secondary School Certificate (SSC)',
-        startYear: '201*',
-        endYear: '2021'
-    },
-    {
         id: 2,
         institution: 'Siddhivinayak Technical Campus',
         course: 'Diploma Computer Science course',
         startYear: '2021',
         endYear: '2024'
+    },
+    {
+        id: 3,
+        institution: "St. Ann's English Medium High School, Khamgaon",
+        course: 'Secondary School Certificate (SSC)',
+        startYear: '201?',
+        endYear: '2021'
     },
 ]
